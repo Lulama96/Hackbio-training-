@@ -1,0 +1,43 @@
+**Proteins as Drug Targets in Cancer Treatment**
+
+Author: Lulama Mthethwa
+
+**Introduction**
+
+Uncontrolled cell growth and proliferation is the primary cause of cancer. This is frequently brought about by mutations in coding regions, which cause proteins essential in growth regulation, cell signaling, apoptosis (programmed cell death), and DNA repair to operate abnormally. Not every cancer is hereditary; some might be brought on by external factors, including biological, chemical, or physical carcinogens. According to WHO data from 2020, cancer is the second most common cause of death worldwide, accounting for almost 10 million deaths (WHO, 2020). Serving as structural elements, signaling molecules, enzymes, receptors, and other compounds, proteins are essential to all biological activities. Since proteins can be altered to change disease states, they are frequently the main targets for therapeutic intervention in drug discovery techniques. Developing effective treatments for cancer involves focusing on proteins that are essential to the survival, growth, and metastasis of cancer cells (Su et al., 2024). 
+
+**Significance of proteins in cancer drug discovery**
+
+Drugs that targets particular proteins linked to cancer can kill cancer cells only, preserving healthy cells in the process and minimizing adverse effects (Sawyers, 2004). Comprehending the structure and functioning of a protein target provides information on the molecular processes underlying cancer, information that can inform the development of more potent medications (Hanahan & Weinberg, 2011). Small compounds or biologics (such monoclonal antibodies) can frequently modify proteins, especially enzymes and receptors, to change the behavior of cancer cells by either inducing cell death or preventing their development (Zahavi et al., 2020).
+
+**Protein targets for cancer drug discovery**
+
+Receptor tyrosine kinases (RTKs) are cell surface receptors that trigger signaling pathways that support cell survival and proliferation when they bind particular ligands, such as growth factors. RTKs (EGFR, HER2, VEGFR) are overexpressed in many tumors or have mutations in them, making them excellent targets for cancer treatments (Lemmon & Schlessinger, 2010). Transmitting signals that support cancer cell growth and survival need intracellular kinases, such as MEK in melanoma and other malignancies, RAF in chronic myeloid leukemia, and BCR-ABL in chronic myeloid leukemia. Clinical settings have shown great success with inhibitors that target these kinases (Druker et al., 2001).
+
+Hormones stimulate the hormone receptors in some malignancies, including cancers of the breast and prostate. Cancer progression can be prevented by using antagonists or inhibitors to target hormone receptors (such as the androgen and estrogen receptors) (Miki, 2023). The immune response is regulated by immune checkpoint proteins (e.g., PD-1, PD-L1, CTLA-4). Monoclonal antibodies that inhibit these proteins have been demonstrated to significantly improve the immune response against cancer cells; this approach has been successful in treating a variety of malignancies (Pardoll, 2012). Cancer cells frequently evade apoptosis, cancer cells can be induced to die by targeting proteins like BCL-2 that are involved in the apoptotic process (Letai, 2017).
+
+**Cancer therapy drugs targeting proteins**
+
+A notable example of cancer treatment is imatinib (Gleevec), which targets the BCR-ABL fusion protein, a constitutively active tyrosine kinase that is caused by the translocation of the Philadelphia chromosome in chronic myeloid leukemia (CML). According to Druker et al. (2001), imatinib selectively inhibits BCR-ABL, resulting in high response rates and extended survival for CML patients. Monoclonal antibody trastuzumab (Herceptin), which targets the HER2 receptor, which is overexpressed in about 20% of breast cancer cases. Trastuzumab, especially when combined with chemotherapy, effectively slows tumor growth and improves patient outcomes by binding to HER2 and preventing receptor dimerization and activation (Slamon et al., 2001).
+
+Immune checkpoint inhibitors such as pembrolizumab (Keytruda) and nivolumab (Opdivo) target T cells' PD-1 receptor, which suppresses the immune response when its ligand, PD-L1, on cancer cells, binds to it. These medications have demonstrated significant effectiveness in treating a variety of malignancies, including melanoma, non-small cell lung cancer, and renal cell carcinoma (Topalian et al., 2012). By blocking PD-1, these medications strengthen the body's immune response against tumor cells. Targeting the BCL-2 protein, which aids cancer cells in avoiding apoptosis, is how Venetoclax (Venclexta) works. Venetoclax is mainly used to treat acute myeloid leukemia (AML) and chronic lymphocytic leukemia (CLL). It works well by reestablishing the apoptotic pathway in cancer cells (Roberts et al., 2016).
+
+**Conclusion**
+
+Various aspects of cancer biology are greatly impacted by the investigation of diverse protein-based strategies, ranging from concentrating on signaling pathway proteins to focusing on mRNA regulation. These approaches have demonstrated potential for enhancing patient outcomes and treatment alternatives, emphasizing the role that protein therapy may play in the battle against cancer. Because proteins play such important roles in both disease and cellular function, targeting them remains a cornerstone of cancer therapy discovery. More efficient and individualized cancer treatments will be possible as long as protein structure, function, and the genetic and epigenetic modifications causing cancer are better understood.
+
+**References**
+
+* Hanahan D, Weinberg RA. Hallmarks of cancer: the next generation. Cell. 2011 Mar 4;144(5):646-74. doi: 10.1016/j.cell.2011.02.013. PMID: 21376230\.  
+* World Health Organization, Cancer Factsheet, 2020\.  
+* Zahavi D, Weiner L. Monoclonal Antibodies in Cancer Therapy. Antibodies (Basel). 2020 Jul 20;9(3):34. doi: 10.3390/antib9030034. PMID: 32698317; PMCID: PMC7551545.  
+* Sawyers C. Targeted cancer therapy. Nature. 2004 Nov 18;432(7015):294-7. doi: 10.1038/nature03095. PMID: 15549090\.  
+* Lemmon MA, Schlessinger J. Cell signaling by receptor tyrosine kinases. Cell. 2010 Jun 25;141(7):1117-34. doi: 10.1016/j.cell.2010.06.011.   PMID: 20602996; PMCID: PMC2914105.  
+* Druker BJ, Talpaz M, Resta DJ, Peng B, Buchdunger E, Ford JM, Lydon NB, Kantarjian H, Capdeville R, Ohno-Jones S, Sawyers CL. Efficacy and safety of a specific inhibitor of the BCR-ABL tyrosine kinase in chronic myeloid leukemia. N Engl J Med. 2001 Apr 5;344(14):1031-7. doi: 10.1056/NEJM200104053441401. PMID: 11287972\.  
+* Pardoll DM. The blockade of immune checkpoints in cancer immunotherapy. Nat Rev Cancer. 2012 Mar 22;12(4):252-64. doi: 10.1038/nrc3239. PMID: 22437870; PMCID: PMC4856023.  
+* Letai, A. (2017). Apoptosis and cancer. Annual Review of Cancer Biology, 1(1), 275-294.  
+* Slamon DJ, Leyland-Jones B, Shak S, Fuchs H, Paton V, Bajamonde A, Fleming T, Eiermann W, Wolter J, Pegram M, Baselga J, Norton L. Use of chemotherapy plus a monoclonal antibody against HER2 for metastatic breast cancer that overexpresses HER2. N Engl J Med. 2001 Mar 15;344(11):783-92. doi: 10.1056/NEJM200103153441101. PMID: 11248153\.  
+* Topalian SL, Hodi FS, Brahmer JR, Gettinger SN, Smith DC, McDermott DF, Powderly JD, Carvajal RD, Sosman JA, Atkins MB, Leming PD, Spigel DR, Antonia SJ, Horn L, Drake CG,   
+* Pardoll DM, Chen L, Sharfman WH, Anders RA, Taube JM, McMiller TL, Xu H, Korman AJ, Jure-Kunkel M, Agrawal S, McDonald D, Kollia GD, Gupta A, Wigginton JM, Sznol M. Safety, activity, and immune correlates of anti-PD-1 antibody in cancer. N Engl J Med. 2012 Jun 28;366(26):2443-54. doi: 10.1056/NEJMoa1200690. Epub 2012 Jun 2\. PMID: 22658127; PMCID: PMC3544539.  
+* Roberts AW, Davids MS, Pagel JM, Kahl BS, Puvvada SD, Gerecitano JF, Kipps TJ, Anderson MA, Brown JR, Gressick L, Wong S, Dunbar M, Zhu M, Desai MB, Cerri E, Heitner Enschede S, Humerickhouse RA, Wierda WG, Seymour JF. Targeting BCL2 with Venetoclax in Relapsed Chronic Lymphocytic Leukemia. N Engl J Med. 2016 Jan 28;374(4):311-22. doi: 10.1056/NEJMoa1513257. Epub 2015 Dec 6\. PMID: 26639348; PMCID: PMC7107002.  
+* Miki Y. Hormone-Dependent Cancers: New Aspects on Biochemistry and Molecular Pathology. Int J Mol Sci. 2023 Jun 29;24(13):10830. doi: 10.3390/ijms241310830. PMID: 37446008; PMCID: PMC10341538.
